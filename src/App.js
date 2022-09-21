@@ -7,7 +7,7 @@ class App extends React.Component {
     return (
       <>
         <Header />
-        <SolarSystem></SolarSystem>
+        <SolarSystem />
       </>
     );
   }
